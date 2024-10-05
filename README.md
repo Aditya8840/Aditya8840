@@ -17,7 +17,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning and Practise Android Devlopment and Rest Api Devlopment;
+- 🚀 I’m currently learning and practise Android development and REST API development;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: akasaudhan02@gmail.com;
 
