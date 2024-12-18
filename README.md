@@ -15,31 +15,23 @@ You are visitor <img src="https://profile-counter.glitch.me/{Aditya8840}/count.s
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="300" />
  
 **Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning and practise Android development and REST API development;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: akasaudhan02@gmail.com;
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+📊 **This Week :**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Zulip Contributions
 ```
 <!--END_SECTION:waka-->
 
 
 📈**My GitHub Stats:**
 
-<p>
-  <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=Aditya8840&theme=react-dark" />
-</p>
-
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya8840&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya8840&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya8840&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya8840&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <!--
 **Aditya8840/Aditya8840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
