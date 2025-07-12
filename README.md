@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp;
 
-You are visitor <img src="https://profile-counter.glitch.me/{Aditya8840}/count.svg" alt="uvrajsb :: Visitor's Count" />
+You are visitor <img src="https://profile-counter.glitch.me/{Aditya8840}/count.svg" alt="Aditya8840 :: Visitor's Count" />
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="300" />
  
